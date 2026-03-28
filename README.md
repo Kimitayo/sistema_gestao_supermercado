@@ -1,4 +1,4 @@
-# Cenário: Sistema de Gestão de Supermercado
+# Cenário: Sistema de Gestão de Supermercado com POO em JAVA
 Foi contratado para desenvolver o núcleo de um sistema de caixa e inventário para um Supermercado. Neste estabelecimento, existem diferentes tipos de produtos à venda. Cada produto possui regras específicas de taxação ou validade e está obrigatoriamente ligado a um fornecedor.
 
 A sua tarefa é modelar este sistema utilizando os pilares da Orientação Objetos.
